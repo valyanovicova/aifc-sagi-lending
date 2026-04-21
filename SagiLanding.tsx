@@ -237,7 +237,6 @@ export function SagiLanding() {
       <nav className="sticky top-0 z-50 bg-white border-b border-[#F0F0F0]">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2.5">
-            <img src="/logo.png" alt="AIFC Expat Centre" className="h-8 w-auto object-contain" />
             <span className="text-[22px] font-black tracking-tight text-[#111827]">sagi</span>
             <span className="text-xs font-semibold text-[#2ABB6F] border border-[#B6EDD2] bg-[#EDFAF3] rounded-full px-2.5 py-0.5 ml-1">Community · AIFC Expat Centre</span>
           </div>
